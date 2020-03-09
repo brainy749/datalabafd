@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = " "
+title = "What we do"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,7 +18,7 @@ subtitle = ""
   icon = "react"
   icon_pack = "fab"
   name = "Foresight"
-  description = "data & emergining technologies"
+  description = "Data & emergining technologies"
   
 [[feature]]
   icon = "chart-line"
