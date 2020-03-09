@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "react"
   icon_pack = "fab"
-  name = "R"
-  description = "80%"
+  name = "Foresight"
+  description = "data & emergining technologies"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Experimentation"
+  description = "Invest in Research & Development"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chess"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Partnerships"
+  description = "Join forces to address global challenges"
 
 +++
