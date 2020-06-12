@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "addop@afd.fr"
+email = "DataLab@afd.fr"
 phone = "+33 6 37 39 15 66"
 
 # Address
@@ -120,7 +120,7 @@ contact_links = []
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "PMarteyAddo"
+twitter = "DataLabAFD"
 
 ############################
 ## Regional Settings
